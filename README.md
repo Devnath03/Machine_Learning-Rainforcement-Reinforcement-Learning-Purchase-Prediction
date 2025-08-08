@@ -32,6 +32,8 @@ This folder contains a complete implementation of a Reinforcement Learning proje
 
 - **Testing:**
   - Automated tests in `test.py` to ensure reliability and correctness.
+  - <img width="1722" height="876" alt="image" src="https://github.com/user-attachments/assets/e0a9629c-4267-4183-a72c-2f5c9be18b64" />
+
 
 ## How to Run
 
