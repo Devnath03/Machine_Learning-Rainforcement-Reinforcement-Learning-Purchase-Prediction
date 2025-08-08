@@ -32,7 +32,6 @@ This folder contains a complete implementation of a Reinforcement Learning proje
 
 - **Testing:**
   - Automated tests in `test.py` to ensure reliability and correctness.
-  - <img width="1722" height="876" alt="image" src="https://github.com/user-attachments/assets/e0a9629c-4267-4183-a72c-2f5c9be18b64" />
 
 
 ## How to Run
@@ -76,6 +75,12 @@ This folder contains a complete implementation of a Reinforcement Learning proje
 
 - `iphone_purchase_records.csv` contains anonymized purchase records for RL modeling.
 - Typical columns: user_id, purchase_amount, features relevant to RL.
+
+## Prediction Results
+<img width="1722" height="876" alt="image" src="https://github.com/user-attachments/assets/8ac7186b-33fd-44db-9b85-52f5dcdf3311" />
+
+## Prediction Automated Graphs
+<img width="1722" height="876" alt="image" src="https://github.com/user-attachments/assets/13f8403d-93e4-4cdb-8505-13a73b7a9d06" />
 
 ## Customization
 
